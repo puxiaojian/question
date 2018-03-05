@@ -1,6 +1,13 @@
 # question
 
-> A Vue.js project 
+> 本项目是基于vue2.0实现的一个小玩意，
+
+项目技术架构
+vue-cli
+vue
+vue-resource
+scss
+webpack
 
 ## Build Setup
 
