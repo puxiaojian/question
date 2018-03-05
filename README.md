@@ -9,20 +9,21 @@ vue-resource
 scss
 webpack
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8888
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+项目地址：（`git clone`）
+```shell
+git clone https://github.com/puxiaojian/question.git
 ```
+通过`npm`安装本地服务第三方依赖模块(需要已安装[Node.js](https://nodejs.org/))
 
-# question
+```
+npm install
+```
+启动服务(http://localhost:8888)
+
+```
+npm run dev
+```
+发布代码
+
+```
+npm run build
